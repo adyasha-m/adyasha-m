@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adyasha 
-- 👀 I’m interested in Machine Learning, Web Dev, Design and Illustration 
+- 👀 Currently learning DSA and Web Dev and ML and Illustration and many more things 😅
 - 📷 I love Photography !
 - 📫 How to reach me : adyasha.m482@gmail.com
 
