@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adyasha 
-- 👀 Currently learning DSA, Web Dev and Illustration
+- 👀 Currently exploring Deep Learning(Pytorch, CV), Web Dev and Illustration
 - 📷 I love Photography !
 
 
