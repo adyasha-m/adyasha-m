@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adyasha 
-- 👀 Currently exploring Computer Vision, Web Dev and Illustration
+- 👀 An aspiring Data Analyst
 - 📷 I love Photography !
 
 
