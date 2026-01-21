@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 - 🎓 B.Tech CSE @ Manipal University Jaipur
 - 🔬 Research Intern @ IIT Bhubaneswar (Photogrammetry & 3D Reconstruction)
 - 🛰️ Intern @ DRDO (Radar Resource Management using Reinforcement Learning)
@@ -20,7 +20,7 @@
 
 ## 🔧 Tech Stack
 
-### 👩‍💻 Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,15 +47,15 @@
 
 ---
 
-## 🔥 Featured Projects
+## 📒 Featured Projects
 - 🧍 **Face Recognition Attendance System**  
   `Python | OpenCV | Flask | Firebase`
 - 🗺️ **3D Reconstruction & Photogrammetry Pipeline**  
   `PyCOLMAP | Learning-based Feature Extraction`
 - 🛰️ **Radar Task Scheduling using Reinforcement Learning**  
-  `Q-Learning | Custom Gym Environment`
+  `Reinforcement Learning | Cognitive Radar`
 - ✋ **ASL Sign Language Detection System**  
-  `Computer Vision | Deep Learning`
+  `Computer Vision | Python | Flask | YOLO`
 
 ---
 
