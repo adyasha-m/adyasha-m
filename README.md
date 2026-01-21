@@ -2,7 +2,7 @@
 <h3 align="center"> Data Analyst | ML & CV Enthusiast </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0c79456-faeb-4d07-80f9-9a8459584fad" width="400">
+  <img src="https://github.com/user-attachments/assets/4be90cad-b8f9-45b6-ade9-4f7b6b6ca8ef" width="400">
 </p>
 
 
