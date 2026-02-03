@@ -11,8 +11,9 @@
 
 ## ✨ About Me
 - 🎓 B.Tech CSE @ Manipal University Jaipur
-- 🔬 Research Intern @ IIT Bhubaneswar (Photogrammetry & 3D Reconstruction)
+- 💼 Analyst @ Capgemini
 - 🛰️ Intern @ DRDO (Radar Resource Management using Reinforcement Learning)
+- 🔬 Research Intern @ AHRC, IIT Bhubaneswar (Photogrammetry & 3D Reconstruction)
 - 🤖 Interested in **Data, Machine Learning & Computer Vision**
 - 📊 Actively working with **SQL & Power BI** 
 
@@ -48,14 +49,14 @@
 ---
 
 ## 📒 Featured Projects
+- 🍕 **Pizza Sales Analysis**
+  `SQL | PowerBI`
 - 🧍 **Face Recognition Attendance System**  
   `Python | OpenCV | Flask | Firebase`
 - 🗺️ **3D Reconstruction & Photogrammetry Pipeline**  
   `PyCOLMAP | Learning-based Feature Extraction`
 - 🛰️ **Radar Task Scheduling using Reinforcement Learning**  
   `Reinforcement Learning | Cognitive Radar`
-- ✋ **ASL Sign Language Detection System**  
-  `Computer Vision | Python | Flask | YOLO`
 
 ---
 
