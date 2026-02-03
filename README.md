@@ -49,7 +49,7 @@
 ---
 
 ## 📒 Featured Projects
-- 🍕 **Pizza Sales Analysis**
+- 🍕 **Pizza Sales Analysis**  
   `SQL | PowerBI`
 - 🧍 **Face Recognition Attendance System**  
   `Python | OpenCV | Flask | Firebase`
