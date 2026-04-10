@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Adyasha </h1>
-<h3 align="center"> Data Analyst | Product | AI >
+<h3 align="center"> Data Analyst | Product | AI </h3>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4be90cad-b8f9-45b6-ade9-4f7b6b6ca8ef" width="400">
@@ -49,7 +50,7 @@
 ---
 
 ## 📒 Featured Projects
-- 🛒**RapidKart - User Behaviour Analysis**
+- 🛒**RapidKart - User Behaviour Analysis**    
   `Python | SQL | PySpark | PowerBI`
 - 🍕 **Pizza Sales Analysis**  
   `SQL | PowerBI`
