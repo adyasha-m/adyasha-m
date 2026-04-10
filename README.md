@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adyasha </h1>
-<h3 align="center"> Data Analyst | ML & CV Enthusiast </h3>
+<h3 align="center"> Data Analyst | Product | AI >
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4be90cad-b8f9-45b6-ade9-4f7b6b6ca8ef" width="400">
@@ -11,11 +11,11 @@
 
 ## ✨ About Me
 - 🎓 B.Tech CSE @ Manipal University Jaipur
-- 💼 Analyst @ Capgemini
-- 🛰️ Intern @ DRDO (Radar Resource Management using Reinforcement Learning)
-- 🔬 Research Intern @ AHRC, IIT Bhubaneswar (Photogrammetry & 3D Reconstruction)
-- 🤖 Interested in **Data, Machine Learning & Computer Vision**
-- 📊 Actively working with **SQL & Power BI** 
+- 💼 Prev Analyst @ Capgemini
+- 🛰️ Interned @ DRDO (Radar Resource Management using Reinforcement Learning)
+- 🔬 Research Interned @ AHRC, IIT Bhubaneswar (Photogrammetry & 3D Reconstruction)
+- 🤖 Interested in **Data, Product & AI**
+- 📊 Actively working with **Python, SQL & Power BI** 
 
 ---
 
@@ -30,6 +30,15 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge)
 
 ---
+### 🛠️ Analytics Tools & Platforms
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+
+---
 
 ### 📚 Libraries (ML / CV / AI)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -39,24 +48,14 @@
 
 ---
 
-### 🛠️ Tools & Platforms
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
 ## 📒 Featured Projects
+- 🛒**RapidKart - User Behaviour Analysis**
+  `Python | SQL | PySpark | PowerBI`
 - 🍕 **Pizza Sales Analysis**  
   `SQL | PowerBI`
 - 🧍 **Face Recognition Attendance System**  
   `Python | OpenCV | Flask | Firebase`
-- 🗺️ **3D Reconstruction & Photogrammetry Pipeline**  
-  `PyCOLMAP | Learning-based Feature Extraction`
-- 🛰️ **Radar Task Scheduling using Reinforcement Learning**  
-  `Reinforcement Learning | Cognitive Radar`
+
 
 ---
 
