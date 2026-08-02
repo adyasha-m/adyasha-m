@@ -33,6 +33,8 @@
 ---
 ### 🛠️ Analytics Tools & Platforms
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
@@ -50,12 +52,15 @@
 ---
 
 ## 📒 Featured Projects
+- **B2C vs SaaS Product Analytics Case Study**  
+  `SQL | Product Analysis | B2C | SaaS`
+- **E-commerce SQL Analytics Case Study**  
+  `SQL | User Behaviour Analysis | B2C`
 - 🛒**RapidKart - User Behaviour Analysis**    
   `Python | SQL | PySpark | PowerBI`
 - 🍕 **Pizza Sales Analysis**  
   `SQL | PowerBI`
-- 🧍 **Face Recognition Attendance System**  
-  `Python | OpenCV | Flask | Firebase`
+
 
 
 ---
